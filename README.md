@@ -12,7 +12,7 @@
 
 ## 💼 About me
 
-I'm a detail-oriented **QA Automation Engineer / SDET** with **3+ years of experience** building and maintaining robust automation frameworks across **UI, API, and hybrid testing**. My background spans enterprise delivery at **Hewlett Packard Enterprise** and **DXC Technology**, plus ongoing international freelance consulting on **Upwork** across healthcare and e-commerce domains.
+I'm a detail-oriented **QA Automation Engineer / SDET** with **2+ years of experience** building and maintaining robust automation frameworks across **UI, API, and hybrid testing**. My background spans enterprise delivery at **Hewlett Packard Enterprise** and **DXC Technology**, plus ongoing international freelance consulting on **Upwork** across healthcare and e-commerce domains.
 
 What sets me apart: I actively integrate **AI pair programming** into my QA workflow — not as a gimmick, but as a deliberate engineering practice that improves coverage speed without sacrificing code quality or test reliability.
 
